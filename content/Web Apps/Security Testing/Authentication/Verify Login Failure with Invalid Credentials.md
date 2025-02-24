@@ -1,4 +1,4 @@
-# Login Failure with Invalid Credentials
+# Verify Login Failure with Invalid Credentials
 Verify that the system denies access when invalid credentials are entered.
 
 #### **Preconditions:**  
