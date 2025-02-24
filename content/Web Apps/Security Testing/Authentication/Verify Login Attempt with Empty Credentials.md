@@ -1,4 +1,4 @@
-# Clicking on a Search Result
+# Verify Login Attempt with Empty Credentials
 Verify that the system handles empty credentials appropriately.
 
 ## **Preconditions:**  
