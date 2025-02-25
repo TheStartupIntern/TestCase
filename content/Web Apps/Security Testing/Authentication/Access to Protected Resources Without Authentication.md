@@ -17,10 +17,13 @@ Verify that unauthorized users cannot access protected resources.
 
 #### **Postconditions:**  
 - The application is in a usable state for further testing.
+- The user remains on the login page or access denied page.
+- No session is created for the unauthorized user.
+- Protected resources remain secure and inaccessible to unauthorized users.
 
 #### **Test Priority:**  
 High
 
 #### **Status:**  
-Pass/Fail (to be determined after execution)  
+Pass/Fail (to be determined after execution)
 
