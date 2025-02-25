@@ -10,7 +10,7 @@ Verify that a user can successfully log in using valid credentials.
 1. Open a web browser.
 2. Navigate to the application's login page (e.g., https://www.example.com/login)
 3. Enter valid credentials (username or email and password)
-4. Click the "Login" button.
+4. Click the **Login** button.
 5. Observe the behaviour of the application.
 
 #### **Expected Result:**  

@@ -9,7 +9,7 @@ Verify that the system handles empty credentials appropriately.
 1. Open a web browser.
 2. Navigate to the application's login page (e.g., https://www.example.com/login).
 3. Leave both the username and password fields empty.
-4. Click the "Login" button.
+4. Click the **Login** button.
 5. Observe the behavior of the application. 
 
 ## **Expected Result:**  
@@ -19,9 +19,11 @@ Verify that the system handles empty credentials appropriately.
 
 ## **Postconditions:**  
 - The application is in a usable state for further testing. 
+- The login form fields (username and password) remain empty for the next attempt.
+- The application remains on the login page, and the user can retry with valid credentials.
 
 ## **Test Priority:**  
 Medium 
 
 ## **Status:**  
-Pass/Fail (to be determined after execution)  
+Pass/Fail (to be determined after execution)

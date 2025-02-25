@@ -9,7 +9,7 @@ Verify that the system locks the account after a specified number of failed logi
 #### **Test Steps:**  
 1. Open web browser
 2. Navigate to the application's login page (e.g., https://www.example.com/login)
-3. Enter invalid credentials and click "Login" repeatedly until the lockout threshold is reached.
+3. Enter invalid credentials and click **Login** repeatedly until the lockout threshold is reached.
 4. Observe the behaviour of the application
 
 #### **Expected Result:**  

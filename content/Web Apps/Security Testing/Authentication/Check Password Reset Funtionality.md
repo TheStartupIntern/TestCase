@@ -9,7 +9,7 @@ Verify that the password reset functionality works as expected.
 #### **Test Steps:**  
 1. Open a web browser.
 2. Navigate to the application's password reset page (e.g., https://www.example.com/reset-password).
-3. Enter the registered email address and click "Submit."
+3. Enter the registered email address and click **Submit**.
 4. Check the email inbox for a password reset link.
 5. Click the reset link and follow the instructions to set a new password.
 6. Attempt to log in with the new password and observe the behavior of the application.
