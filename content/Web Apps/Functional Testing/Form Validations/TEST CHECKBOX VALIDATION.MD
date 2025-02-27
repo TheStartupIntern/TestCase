@@ -1,0 +1,18 @@
+Test Case Title: Checkbox Validation for Terms and Conditions
+
+Precondition: User is on the form page and the checkbox for accepting Terms and Conditions is required.
+
+Post Condition: The form should not be submitted unless the checkbox is checked.
+
+Test Steps:
+
+Leave the Terms and Conditions checkbox unchecked.
+Attempt to submit the form.
+Observe if the form is blocked and an error message is displayed.
+Expected Result:
+
+The system should prevent form submission and display a message like "You must accept the Terms and Conditions."
+Test Priority: High
+
+Status: Not Tested / Passed / Failed
+
