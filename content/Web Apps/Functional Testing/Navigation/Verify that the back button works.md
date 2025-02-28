@@ -1,4 +1,4 @@
-# Verify that the Back button Works
+# Verify that the back button works
 Verify that the Back button works correctly when clicked 
 
 #### **Preconditions:**  

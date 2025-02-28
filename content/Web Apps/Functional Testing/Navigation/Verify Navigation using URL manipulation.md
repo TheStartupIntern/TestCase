@@ -1,4 +1,4 @@
-# Verify Navigation via URL MAnipulation
+# Verify Navigation via URL Manipulation
 Verify that the user can manipulate the URL and it would load to the target page.
 
 #### **Preconditions:**  

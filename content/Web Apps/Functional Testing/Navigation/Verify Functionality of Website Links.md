@@ -1,5 +1,6 @@
-# Verify Broken Links
-Verify that links open correctly
+# Verify Functionality of Website Links
+Verify all website links open correctly without errors.
+
 #### **Preconditions:**  
 - The website is loaded on the browser 
 
