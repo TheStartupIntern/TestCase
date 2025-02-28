@@ -1,4 +1,4 @@
-# verify logout functionality
+# Verify logout functionality
 Verify that the user is properly logged out and the session is terminated.
 
 #### **Preconditions:**  
