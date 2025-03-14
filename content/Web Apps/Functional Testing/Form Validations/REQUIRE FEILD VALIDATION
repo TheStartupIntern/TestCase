@@ -1,9 +1,4 @@
 
-test Case: Required Field Validation (Empty Field Submission)
-Test Case ID: TC_FORM_001
-
-Test Case Description: Ensure that the form cannot be submitted with empty required fields and appropriate error messages are displayed.
-
 Pre-condition:
 The user is on the form page.
 The form contains at least one required field (e.g., Name, Email).
