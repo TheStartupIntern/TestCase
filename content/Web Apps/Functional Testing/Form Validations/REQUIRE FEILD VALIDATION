@@ -4,9 +4,6 @@ The user is on the form page.
 The form contains at least one required field (e.g., Name, Email).
 The user is not logged in (if the form requires login).
 
-Post-condition:
-The form remains unsubmitted, and the user is shown error messages for the empty required fields.
-
 Test Steps:
 Open the form page.
 Leave one or more required fields empty (e.g., leave the 'Name' or 'Email' field empty).
@@ -17,7 +14,11 @@ The form should not be submitted.
 Error messages should appear near the empty required fields (e.g., "This field is required" or "Please enter a valid email address").
 The submit button should be disabled or should remain active until all required fields are filled correctly.
 
+Post-condition:
+The form remains unsubmitted, and the user is shown error messages for the empty required fields.
+
 Test Priority: High
+
 Status: Not Executed / Passed / Failed
 Notes:
 Test Priority: "High" because missing required fields is a basic validation that must always work correctly to prevent incomplete submissions.
