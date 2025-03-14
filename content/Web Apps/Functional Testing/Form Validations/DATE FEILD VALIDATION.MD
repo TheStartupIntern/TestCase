@@ -1,4 +1,3 @@
-Test Case Title: Date Field Validation
 
 Precondition: User is on the form page with a date input field.
 
