@@ -1,4 +1,3 @@
-Test Case Title: Error Message Display
 
 Precondition: User is on the form page with fields that are required or have validation constraints.
 
