@@ -1,4 +1,3 @@
-Test Case Title: Checkbox Validation for Terms and Conditions
 
 Precondition: User is on the form page and the checkbox for accepting Terms and Conditions is required.
 
